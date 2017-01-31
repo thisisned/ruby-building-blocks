@@ -21,3 +21,5 @@ p best_days
 puts "$" + max_profit.to_s
 
 end
+
+stock_picker([4,7,12,4,13,2,13,7,6,20,1])
