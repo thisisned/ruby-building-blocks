@@ -18,5 +18,3 @@ def caesar_cipher(string, shift = 1) # Shift positive for rightwards, negative f
 	end
 	p coded_array.join
 end
-
-caesar_cipher("Hey man, what's the big deal you sucker? 12345 YA YA YA YA ya ya eat it", 9)
